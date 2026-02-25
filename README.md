@@ -1,3 +1,3 @@
-# Judoscore-CS
+# Judoscore
 
-Application 'Judoscore-CS.ipa' pour l'affichage de scores judo.
+Application 'Judoscore.ipa' pour l'affichage de scores et du temps au judo.
